@@ -10,7 +10,7 @@ int i,j,x,y,array[I][J],temp,_temp[I][J],_orig[I][J],end = 0,
 _temp_x,_temp_y,couple[I][J],counter = 0,_couple = 0,couple_counter = 0,begin=1,
 temp_orig1,temp_orig2,temp_orig3,temp_orig4,
 temp_orig5,temp_orig6,temp_orig7,temp_orig8;
-printf("wowa");
+
 void board()
 {
     srand(time(NULL));
