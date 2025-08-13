@@ -47,7 +47,7 @@ void board(void)
         }
         printf("\n\n");
     }
-    Sleep(5000);
+    Sleep(15000);
     system("cls");
 
     // Hide board
@@ -242,3 +242,4 @@ int main(void)
     }
     return 0;
 }
+
