@@ -10,9 +10,9 @@ Memory Game was made on 2020 with C Language, this is the first complex game I m
 1. Click the green Code Button, select Local then select Download zip
 2. Extract the zip to any desired location
 3. Open the extracted folder then Click main.c
-4. Run the program with any C compiler
-### Note:         
-    The program don't run in Codespace because of <windows.h> and <conio.h>
+4. Run the program with a C compiler
+
+**Note:**    The program don't run in Codespace because of <windows.h> and <conio.h>
 ## Key Learnings
 - Data Structures and Algorithm
 - Strengthened problem solving and logical thinking
