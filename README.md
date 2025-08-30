@@ -1,6 +1,6 @@
 # Memory Game
 ## Overview
-Memory Game was made on 2020 with C Language, this is the first complex game I made without the help of online resources to challenge myself. I developed the game to enhance my programming skills, the game has lots of data manipulation and error handling. I Included a video of it working in my fb, feel free to watch my work :)
+Memory Game was made on 2020 with C Language, this is the first complex game I made without the help of online resources to challenge myself. I developed the game to enhance my programming skills, the game has lots of data manipulation and error handling. I Included a video of it working in my Facebook and Youtube Channel, feel free to watch my work :)
 ## Video Link
 - **Facebook**: [Watch on FB](https://www.facebook.com/share/v/1C8nAj1dRg/)
 - **Youtube**: [Watch on YT](https://www.youtube.com/watch?v=Nl30QI_bVAg)
